@@ -1,1 +1,1 @@
-# icanyjs2.github.io
+# icanyjs.github.io
